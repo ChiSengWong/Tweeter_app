@@ -34,8 +34,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<br>
 ![video_walkthrough](MLrgqyBC.gif)
-<img src='https://submissions.us-east-1.linodeobjects.com/android_university/MLrgqyBC.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
